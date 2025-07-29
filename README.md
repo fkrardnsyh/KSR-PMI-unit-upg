@@ -43,8 +43,8 @@ Selamat datang di halaman resmi **KSR PMI Unit Universitas Primagraha**!
 
 ## 🔗 Sosial Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ksr_pmi_upg)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ksr_pmi_upg)  
-[![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/rKNX4iUpAVmRDXhP8)
+[![Instagram](https://www.instagram.com/ksrpmi_unit_upg?utm_source=qr&igsh=MTZ0YmRvMGR6cmIzZQ==)](https://instagram.com/ksr_pmi_upg)  
+[![TikTok](https://www.tiktok.com/@ksr_unit_upg?_t=ZS-8yREAEoQBNv&_r=1)](https://www.tiktok.com/@ksr_pmi_upg)  
+[![Google Maps](https://maps.app.goo.gl/VzTxcMXTWFUCBUSE6?g_st=awb)](https://maps.app.goo.gl/rKNX4iUpAVmRDXhP8)
 
 ---
